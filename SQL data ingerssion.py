@@ -99,5 +99,5 @@ cursor.close()
 # Connection close
 connection.close()
 
-print("table created successfully!")
+print("table created on the Database successfully!")
 
